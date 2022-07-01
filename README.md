@@ -1,7 +1,7 @@
 ### Hi there, I'm Nathan 👋
 
 I'm a french engineering student at ISEP<br>
-Feel free to check my **[portfolio](https://weber-nathan.github.io "Nathan WEBER")**.
+Feel free to check my **[portfolio](https://weber-nathan.github.io "Nathan WEBER")**
 
 ### Connect with me:
 
